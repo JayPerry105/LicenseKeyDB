@@ -7,7 +7,7 @@ from datetime import datetime
 root = tk.Tk()
 root.title("License Key Database App")
 root.geometry("800x500")
-root.configure(bg="#2C2F33")  # Dark Gray Background
+root.configure(bg="#2C2F33")
 root.grid_rowconfigure(5, weight=1)
 root.grid_columnconfigure(0, weight=1)
 
